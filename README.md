@@ -1,7 +1,7 @@
 ## Hello, my name is Rafael Macchi! 🤝 </br>
 ### Junior software engineer. </br>
 
-➜ 👨‍💻 I'm currently learning JavaScript, Python and TypeScript; </br>
+➜ 👨‍💻 I'm currently learning JavaScript, NodeJS and TypeScript; </br>
 ➜ ⭐️ I'm currently looking for my first opportunity to work in the technology field;</br>
 ➜ 📬 To communicate with me: rafaelmacchi199@gmail.com </br>
 
