@@ -1,7 +1,7 @@
-## Hello, my name is Rafael Macchi! 🤝 </br>
-### Junior software engineer. </br>
+## Hello, everyone. I'm Rafael Macchi! 🤝 </br>
+### Software Engineer. </br>
 
-➜ 👨‍💻 I'm currently learning JavaScript, NodeJS and TypeScript; </br>
+➜ 👨‍💻 I'm currently learning JavaScript, NodeJS, React and TypeScript; </br>
 ➜ ⭐️ I'm currently looking for my first opportunity to work in the technology field;</br>
 ➜ 📬 To communicate with me: rafaelmacchi199@gmail.com </br>
 
@@ -17,7 +17,7 @@
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://imgs.search.brave.com/e2KE5xOF15cNimToCJ4hCw_hUBaNiZPDlDKFxryGPhs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/c3BuZy5vcmcvZG93/bmxvYWQvcmVhY3Qv/bG9nby1yZWFjdC01/MTIucG5n">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="PhP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
