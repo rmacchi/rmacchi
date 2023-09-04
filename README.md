@@ -17,7 +17,7 @@
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://imgs.search.brave.com/e2KE5xOF15cNimToCJ4hCw_hUBaNiZPDlDKFxryGPhs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/c3BuZy5vcmcvZG93/bmxvYWQvcmVhY3Qv/bG9nby1yZWFjdC01/MTIucG5n">
+  <img align="center" alt="Python" height="30" width="40" src="https://imgs.search.brave.com/OhnEzN5c9zMJorD3I-Y98IblMQL6ikcUjIJDeZ_t5Mw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5wbmdhYWEuY29t/Lzg3NS8yNTA3ODc1/LW1pZGRsZS5wbmc">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="PhP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
