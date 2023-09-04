@@ -20,8 +20,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://imgs.search.brave.com/vo6BX_XoOCp2zawTPCX6LDR7GYMp4BkOPyDkA_f-uFs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2E3L1JlYWN0LWlj/b24uc3Zn.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="PhP" height="30" width="40" src="https://imgs.search.brave.com/XOzNvB29A-z-gsVyyAWXlPpJKDOOaescGYZMQ05Ni70/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q5L05vZGUuanNf/bG9nby5zdmc.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ##
