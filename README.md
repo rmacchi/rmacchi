@@ -1,8 +1,8 @@
 ## Hello, everyone. I'm Rafael Macchi! 🤝 </br>
-### Software Engineer. </br>
+### Full Stack Engineer. </br>
 
 ➜ 👨‍💻 I'm currently learning JavaScript, NodeJS, React and TypeScript; </br>
-➜ ⭐️ I'm currently looking for my first opportunity to work in the technology field;</br>
+➜ ⭐️ I'm currently looking for opportunities to work in the technology field;</br>
 ➜ 📬 To communicate with me: rafaelmacchi199@gmail.com </br>
 
 <div align="center">
