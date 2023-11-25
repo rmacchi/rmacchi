@@ -18,8 +18,9 @@ I find great pleasure in challenging my ability to solve problems and nurturing 
   src="https://github-readme-streak-stats.herokuapp.com/?user=rmacchi&theme=dark&hide_border=false"
   alt="Github stats"
 />
- 
-<br>
+
+<br />
+<br />
 
 ## My Skills:
 
