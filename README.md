@@ -6,7 +6,6 @@ I am an enthusiast of the most advanced web and mobile development technologies.
 My biggest mission is to always evolve, to be a superior version of myself every day, as this incessant search for constant improvement is the essence that defines me. I have a burning desire to stay informed and updated, and I am always willing to explore unknown territories, as well as deepen my knowledge in the areas I master.
 I find great pleasure in challenging my ability to solve problems and nurturing my creativity, as these are the skills that drive my journey in the world of technology.
 
-##
 <table>
   <tr>
     <td>
@@ -27,11 +26,13 @@ I find great pleasure in challenging my ability to solve problems and nurturing 
   </tr>
 </table>
 
-##
 
 ## My Skills:
 
 <div>
+  <a href="https://nodejs.org/en/about" title="NodeJS" Alt="Logo do NodeJS">
+    <img src="https://skillicons.dev/icons?i=nodejs"/>
+  </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="Javascript" Alt="Logo do Javascript">
     <img src="https://skillicons.dev/icons?i=js"/>
   </a>
@@ -40,6 +41,10 @@ I find great pleasure in challenging my ability to solve problems and nurturing 
   </a>
   <a href="https://pt-br.react.dev" title="React" Alt="Logo do React">
     <img src="https://skillicons.dev/icons?i=react"/>
+  </a>
+  <a href="https://www.python.org/" title="Python" Alt="Logo do Python">
+    <img src="https://skillicons.dev/icons?i=python"/>
+  </a>
 </div>
 
 ## Tools I use:
