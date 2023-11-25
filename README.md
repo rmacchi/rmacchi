@@ -12,13 +12,6 @@ I find great pleasure in challenging my ability to solve problems and nurturing 
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=rmacchi&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmacchi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats"
       />
@@ -33,7 +26,6 @@ I find great pleasure in challenging my ability to solve problems and nurturing 
     </td>
   </tr>
 </table>
-<br />
 
 ##
 
@@ -70,7 +62,7 @@ I find great pleasure in challenging my ability to solve problems and nurturing 
   </a>
 </div>
 
-### Talk to me
+### Talk to me:
 
 <div>
   <a href="https://www.linkedin.com/in/rafael-de-oliveira-silva-macchi-916162259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
