@@ -50,6 +50,8 @@ I find great pleasure in challenging my ability to solve problems and nurturing 
   </a>
 </div>
 
+<br>
+
 ## Tools I use:
 
 <div>
@@ -69,6 +71,8 @@ I find great pleasure in challenging my ability to solve problems and nurturing 
     <img src="https://skillicons.dev/icons?i=figma"/>
   </a>
 </div>
+
+<br>
 
 ### Talk to me:
 
