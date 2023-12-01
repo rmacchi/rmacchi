@@ -3,9 +3,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0a5c5c&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Rafael+Macchi;I'm+24+years+old;I'm+a+Software+Engineer;Be+Welcome!+:%29)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rmacchi&show_icons=true&count_private=true&hide_border=true&title_color=0a5c5c&icon_color=0a5c5c&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Macchi github stats" /> 
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rmacchi&theme=0a5c5c&hide_border=false" alt="Github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmacchi&layout=compact&hide_border=true&title_color=0a5c5c&text_color=0a5c5c&bg_color=0d1117" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rmacchi&theme=dark&hide_border=false" alt="Github stats"
+  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a5c5c?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/rafael-de-oliveira-silva-macchi-916162259/)
 [![Gmail](https://img.shields.io/badge/-Gmail-0a5c5c?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:rafaelmacchi199@gmail.com)
