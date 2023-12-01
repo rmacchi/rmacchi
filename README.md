@@ -1,74 +1,28 @@
-# Rafael Macchi
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a5c5c&height=120&section=header"/>
 
-Passionate about top-notch technologies in web and mobile development.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0a5c5c&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Rafael+Macchi;I'm+24+years+old;I'm+a+Software+Engineer;Be+Welcome!+:%29)
 
-I am an enthusiast of the most advanced web and mobile development technologies. I have an unwavering passion for all forms of programming, ranging from the web to mobile. I am constantly looking to improve my knowledge, accepting challenges and acquiring new knowledge.
-My biggest mission is to always evolve, to be a superior version of myself every day, as this incessant search for constant improvement is the essence that defines me. I have a burning desire to stay informed and updated, and I am always willing to explore unknown territories, as well as deepen my knowledge in the areas I master.
-I find great pleasure in challenging my ability to solve problems and nurturing my creativity, as these are the skills that drive my journey in the world of technology.
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rmacchi&show_icons=true&count_private=true&hide_border=true&title_color=0a5c5c&icon_color=0a5c5c&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Macchi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmacchi&layout=compact&hide_border=true&title_color=0a5c5c&text_color=0a5c5c&bg_color=0d1117" />
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a5c5c?style=for-the-badge&logo=linkedin&logoColor=FFF)]([https://www.linkedin.com/in/rafael-de-oliveira-silva-macchi-916162259/])
+[![Gmail](https://img.shields.io/badge/-Gmail-0a5c5c?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:rafaelmacchi199@gmail.com)
 
-<img
-  align="left"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmacchi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-  alt="Github stats"
-/>
-<img
-  align="left"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=rmacchi&theme=dark&hide_border=false"
-  alt="Github stats"
-/>
-
-
-
-## My Skills:
-
-<div>
-  <a href="https://nodejs.org/en/about" title="NodeJS" Alt="Logo do NodeJS">
-    <img src="https://skillicons.dev/icons?i=nodejs"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="Javascript" Alt="Logo do Javascript">
-    <img src="https://skillicons.dev/icons?i=js"/>
-  </a>
-  <a href="https://www.typescriptlang.org/pt/" title="Typescript" Alt="Logo do Typescript">
-    <img src="https://skillicons.dev/icons?i=ts"/>
-  </a>
-  <a href="https://pt-br.react.dev" title="React" Alt="Logo do React">
-    <img src="https://skillicons.dev/icons?i=react"/>
-  </a>
-  <a href="https://www.python.org/" title="Python" Alt="Logo do Python">
-    <img src="https://skillicons.dev/icons?i=python"/>
-  </a>
 </div>
 
-<br>
-
-## Tools I use:
-
-<div>
-  <a href="https://code.visualstudio.com" title="Visual Studio Code" Alt="Logo do Visual Studio">
-    <img src="https://skillicons.dev/icons?i=vscode"/>
-  </a>
-  <a href="https://github.com/pt" title="GitHub" Alt="Logo do GitHub">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
-  <a href="https://git-scm.com" title="Git" Alt="Logo do Git">
-    <img src="https://skillicons.dev/icons?i=git"/>
-  </a>
-  <a href="https://vercel.com" title="Vercel" Alt="Logo do Vercel">
-    <img src="https://skillicons.dev/icons?i=vercel"/>
-  </a>
-  <a href="https://www.figma.com" title="Figma" Alt="Logo do Figma">
-    <img src="https://skillicons.dev/icons?i=figma"/>
-  </a>
+### Studying in this moment:
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-0a5c5c?style=for-the-badge&logo=javascript&logoColor=FFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a5c5c?style=for-the-badge&logo=typescript&logoColor=FFF)
+![React](https://img.shields.io/badge/React-0a5c5c?style=for-the-badge&logo=react&logoColor=FFF)
+![Python](https://img.shields.io/badge/Python-0a5c5c?style=for-the-badge&logo=python&logoColor=FFF)
+[![Git](https://img.shields.io/badge/Git-0a5c5c?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) 
+![HTML5](https://img.shields.io/badge/HTML5-0a5c5c?style=for-the-badge&logo=html5&logoColor=FFF)
+![CSS](https://img.shields.io/badge/CSS3-0a5c5c?style=for-the-badge&logo=css3&logoColor=FFF)
 </div>
 
-<br>
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rmacchi&bg_color=0d1117&color=0a5c5c&line=0a5c5c&point=0a5c5c&area=true&hide_border=true)
 
-### Talk to me:
-
-<div>
-  <a href="https://www.linkedin.com/in/rafael-de-oliveira-silva-macchi-916162259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href ="mailto:rafaelmacchi199@gmail.com"><img src="https://img.shields.io/badge/GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.instagram.com/rafaelmacchi_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a5c5c&height=120&section=footer"/>
