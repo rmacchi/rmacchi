@@ -30,4 +30,3 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a5c5c&height=120&section=footer"/>
 
 
-
