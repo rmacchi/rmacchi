@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a5c5c&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0a5c5c&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Rafael+Macchi;I'm+24+years+old;I'm+a+Software+Engineer;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0a5c5c&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Rafael+Macchi;I'm+25+years+old;I'm+a+Software+Engineer;Be+Welcome!+:%29)
 
 <div align="center">  
   <img align="left" width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=rmacchi&theme=vue-dark&hide_border=true&border_radius=5.5" alt="GitHub Streak" alt="GitHub Streak" />
