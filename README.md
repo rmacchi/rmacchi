@@ -13,7 +13,6 @@
 
 </div>
 
-### Studying in this moment:
 <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a5c5c?style=for-the-badge&logo=javascript&logoColor=FFF)
