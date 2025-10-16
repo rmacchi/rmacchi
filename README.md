@@ -18,9 +18,7 @@
 ### Skills:
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a5c5c?style=for-the-badge&logo=javascript&logoColor=FFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a5c5c?style=for-the-badge&logo=typescript&logoColor=FFF)
-![Bash](https://img.shields.io/badge/React-0a5c5c?style=for-the-badge&logo=bash&logoColor=FFF)
-![Rust](https://img.shields.io/badge/Flutter-0a5c5c?style=for-the-badge&logo=rust&logoColor=FFF)
+![Rust](https://img.shields.io/badge/Rust-0a5c5c?style=for-the-badge&logo=rust&logoColor=FFF)
 ![Python](https://img.shields.io/badge/Python-0a5c5c?style=for-the-badge&logo=python&logoColor=FFF)
 ![Go](https://img.shields.io/badge/Go-0a5c5c?style=for-the-badge&logo=go&logoColor=FFF)
 [![Git](https://img.shields.io/badge/Git-0a5c5c?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc)
